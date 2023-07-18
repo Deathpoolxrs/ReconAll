@@ -1,1 +1,1 @@
-##Recon Bash script
+This Bash script automates subdomain enumeration, screenshot capturing, and vulnerability detection. It uses tools like Amass, Waybackurl's, Arjun, and scans for XSS and SQLi vulnerabilities, making it easier to identify security weaknesses in a target domain.
